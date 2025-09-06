@@ -1,21 +1,65 @@
-                       
-# Power-Bi-Amazon-Sales-Dashboard
-The project presents an interactive Power BI dashboard analyzing Amazon's sales data.
+# 📊 Power BI Amazon Sales Dashboard  
 
-# Problem Statement 
-## KPI's Requirement 
-YTD Sales : Monitor year-to-date sales to gauge the overall revenue performance over time.
-QTD Sales : Track quarterly sales figures to identify sales trends and fluctuations.
-YTD Product Sold : Analyse the total number of products sold throughout the year to understand product movement.
-YTD Reviews : Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
+_Interactive dashboard analyzing Amazon’s global sales data (2011–2015) to track KPIs, identify sales trends, and generate actionable insights._  
 
-# Tools & Technologies
-1. Microsoft Power BI
-2. Power Query for data transformation
-3. DAX for calculated measures and KPIs
+---
 
-# Dataset
-1. Source: Kaggle's Amazon Global Sales Dataset  -
-2. Period: 2011–2015
-3. Features: Orders, Returns, Customer Demographics, Product Categories, Shipping Details
+## 📌 Overview  
+This project presents an **interactive Power BI dashboard** built to analyze Amazon’s global sales data (2011–2015). The dashboard provides actionable insights into sales performance, product movement, and customer satisfaction, helping businesses make informed decisions.  
 
+---
+
+## 🎯 Problem Statement  
+The goal was to design a dashboard that tracks key performance indicators (KPIs) and highlights sales trends, customer behavior, and product performance in a visually intuitive manner.  
+
+---
+
+## 📈 Key Features  
+- **YTD Sales**: Monitor year-to-date revenue performance  
+- **QTD Sales**: Identify quarterly sales trends and fluctuations  
+- **YTD Products Sold**: Analyze product movement and demand  
+- **YTD Reviews**: Assess customer feedback and satisfaction  
+
+---
+
+## 🛠️ Tools & Technologies  
+- **Microsoft Power BI** – Data visualization & dashboard design  
+- **Power Query** – Data cleaning and transformation  
+- **DAX** – Calculated measures and KPIs  
+
+---
+
+## 📂 Dataset  
+- **Source**: Kaggle – Amazon Global Sales Dataset  
+- **Period**: 2011–2015  
+- **Features**: Orders, Returns, Customer Demographics, Product Categories, Shipping Details  
+
+---
+
+## 📷 Dashboard Preview  
+*(Add screenshots or GIFs of your dashboard here)*  
+
+---
+
+## 🚀 How to Use  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/Power-BI-Amazon-Sales-Dashboard.git
+   ```  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Explore the interactive dashboard and filter data by region, category, or time period.  
+
+---
+
+## 📌 Insights Gained  
+- Identified sales seasonality and regional trends  
+- Highlighted best-selling and underperforming product categories  
+- Linked customer reviews with sales performance  
+- Provided a structured view for strategic decision-making  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** – feel free to use, modify, and share.  
+
+---
